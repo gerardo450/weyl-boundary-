@@ -57,4 +57,4 @@ if __name__=="__main__":
     assert D*X==X*D+I
     assert D*(X**2)==(X**2)*D+2*X
     assert (D**2)*X==X*(D**2)+2*D
-    print("tests passed")
+    print("Hello Weyl!")
